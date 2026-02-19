@@ -1,5 +1,7 @@
 # Funding and Team
 
+[Back to Overview](OVERVIEW.md)
+
 Information on browser-use's funding rounds, investors, and key team members.
 
 ## Funding Rounds
