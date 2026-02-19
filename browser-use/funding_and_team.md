@@ -1,6 +1,6 @@
 # Funding and Team
 
-Browser-use was founded by Magnus Müller and Gregor Žunič, who met while studying at ETH Zurich. The company is part of the Y Combinator W25 batch and is based in San Francisco.
+Browser-use was founded by Magnus Müller and Gregor Žunič [[2]](#ref-2) [[4]](#ref-4), who met while studying at ETH Zurich [[3]](#ref-3) [[4]](#ref-4). The company is part of the Y Combinator W25 batch [[6]](#ref-6) and is based in San Francisco [[5]](#ref-5).
 
 ## Funding
 In March 2025, Browser-use raised **$17 million** in funding to accelerate the development of its web agent technology [[2]](#ref-2) [[3]](#ref-3) [[6]](#ref-6).
@@ -34,3 +34,6 @@ As of early 2025, the team consists of approximately **7 employees** based in Sa
 
 <a id="ref-6"></a>
 [6] : https://automationtools.ai/2025/03/24/browser-use-secures-17m-funding-to-enhance-ai-agents-website-navigation-capabilities/
+
+---
+[Back to Overview](OVERVIEW.md)
